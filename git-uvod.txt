@@ -20,5 +20,12 @@ Front End 2@FLY02 MINGW64 ~/Desktop/Front End 2 grupa/GIT/smart (main)
 $ git add . (cuvamo sve izmene, ukoliko zelimo samo odredjene fajl onda se kuca tacna putanja fajla)
 
 Front End 2@FLY02 MINGW64 ~/Desktop/Front End 2 grupa/GIT/smart (main)
+$ git commit -m "Dodata index stranica" - ( Sa ovim se cuva fajl na GIT, Poruka koja se salje sa sacuvanim fajlom)
+
+Front End 2@FLY02 MINGW64 ~/Desktop/Front End 2 grupa/GIT/smart (main)
 $ git status
+
+Front End 2@FLY02 MINGW64 ~/Desktop/Front End 2 grupa/GIT/smart (main)
+$ git push - 
+
 
