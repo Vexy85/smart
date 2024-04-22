@@ -1,0 +1,24 @@
+
+Front End 2@FLY02 MINGW64 ~/Desktop/Front End 2 grupa/GIT
+$ git clone https://github.com/Vexy85/smart.git
+Cloning into 'smart'...
+warning: You appear to have cloned an empty repository.
+
+Front End 2@FLY02 MINGW64 ~/Desktop/Front End 2 grupa/GIT
+$ git config --global user.name "Vexy85"
+
+Front End 2@FLY02 MINGW64 ~/Desktop/Front End 2 grupa/GIT
+$ git config --global user.email "vstevanov@gmail.com"
+
+Front End 2@FLY02 MINGW64 ~/Desktop/Front End 2 grupa/GIT
+$ git config --list
+
+Front End 2@FLY02 MINGW64 ~/Desktop/Front End 2 grupa/GIT
+$ cd smart
+
+Front End 2@FLY02 MINGW64 ~/Desktop/Front End 2 grupa/GIT/smart (main)
+$ git add . (cuvamo sve izmene, ukoliko zelimo samo odredjene fajl onda se kuca tacna putanja fajla)
+
+Front End 2@FLY02 MINGW64 ~/Desktop/Front End 2 grupa/GIT/smart (main)
+$ git status
+
