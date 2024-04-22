@@ -33,4 +33,22 @@ $ git push (sa push se podaci salju na GIT)
 
 $ git log (istorija logovanja na git)
 
+Redoslet komandi kada se cuvaju fajlovi:
+- git status
+- git add .
+- git status
+- git pull
+- git status
+- git push
+
+Pravljenje nove grane:
+Front End 2@FLY02 MINGW64 ~/Desktop/Front End 2 grupa/GIT/smart (main)
+$ git branch version01
+
+Prebacivanje sa jedne grane na drugu
+Front End 2@FLY02 MINGW64 ~/Desktop/Front End 2 grupa/GIT/smart (main)
+$ git checkout version01
+
+
+
 
